@@ -1,6 +1,3 @@
---select * from CovidVaccinations
---order by 3,4
-
 Select * from CovidDeaths
 where continent is not null
 order by 3,4
