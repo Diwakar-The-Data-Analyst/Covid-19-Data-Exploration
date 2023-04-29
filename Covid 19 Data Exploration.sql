@@ -1,3 +1,8 @@
+/*
+Covid 19 Data Exploration 
+Skills used: Joins,  Aggregate Functions, Converting Data Types
+*/
+
 Select * from CovidDeaths
 where continent is not null
 order by 3,4
